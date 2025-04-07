@@ -1,12 +1,29 @@
-# React + Vite
+🛍️ Ecommerce App Using Redux
+A modern ecommerce web application built with React, Redux Toolkit, and TailwindCSS. This project showcases how to manage global state effectively using Redux while maintaining a clean and responsive UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo: ecommerce-using-redux-alpha.vercel.app
 
-Currently, two official plugins are available:
+🚀 Features
+🛒 Add to cart, remove from cart
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📦 View cart items and total
 
-## Expanding the ESLint configuration
+🧾 Simple and clean product listing
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ State management with Redux Toolkit
+
+💻 Fully responsive design using TailwindCSS
+
+⚙️ Tech Stack
+Frontend: React, Redux Toolkit, TailwindCSS
+
+State Management: Redux Toolkit, React-Redux
+
+Deployment: Vercel
+
+💡 Getting Started
+
+git clone https://github.com/MERNDevTinkal/Ecommerce-Using-Redux
+cd Ecommerce-Using-Redux
+npm install
+npm start
