@@ -1,7 +1,7 @@
 🛍️ Ecommerce App Using Redux
 A modern ecommerce web application built with React, Redux Toolkit, and TailwindCSS. This project showcases how to manage global state effectively using Redux while maintaining a clean and responsive UI.
 
-🔗 Live Demo: ecommerce-using-redux-alpha.vercel.app
+🔗 Live Demo: [Click here to visit](https://ecommerce-using-redux-alpha.vercel.app/)
 
 🚀 Features
 🛒 Add to cart, remove from cart
